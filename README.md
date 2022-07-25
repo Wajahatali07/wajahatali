@@ -6,7 +6,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="http://handboofixk.datalad.org/en/latest/_images/gitidentity.svg" height="175px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <strong>Junaid Raza Maher</strong></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <strong>Wajahat Ali</strong></h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Pakistan.</h3>
 
 
@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **junaid@kodingweb.com**
+- 📫 How to reach me **wajahat@kodingweb.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
